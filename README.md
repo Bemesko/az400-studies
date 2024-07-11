@@ -10,8 +10,9 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 
 ## Milestones
 - [x] 08/jul/2024 - Finish setting up everything
-- [ ] 12/jul/2024
+- [ ] 14/jul/2024 (Week 1) - CI, Azure Pipelines and GitHub Actions
 	- https://learn.microsoft.com/en-us/training/paths/az-400-implement-ci-azure-pipelines-github-actions/
+		- Design and implement pipelines
 - [ ] 19/jul/2024
 	- [AZ-400: Design and implement a release strategy - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-release-strategy/)
 - [ ] 26/jul/2024
