@@ -10,26 +10,29 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 
 ## Milestones
 - [x] 08/jul/2024 - Finish setting up everything
-- [ ] 14/jul/2024 (Week 1) - CI, Azure Pipelines and GitHub Actions
+- [ ] step 1 - CI, Azure Pipelines and GitHub Actions
 	- https://learn.microsoft.com/en-us/training/paths/az-400-implement-ci-azure-pipelines-github-actions/
-		- Design and implement pipelines
-- [ ] 19/jul/2024
+		- [Implement CI with Azure Pipelines and GitHub Actions](Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions.md)
+- [ ] step 2
 	- [AZ-400: Design and implement a release strategy - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-release-strategy/)
-- [ ] 26/jul/2024
+- [ ] step 3
 	- [AZ-400: Development for enterprise DevOps - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-work-git-for-enterprise-devops/)
-- [ ] 02/aug/2024
+- [ ] step 4
 	- [AZ-400: Implement a secure continuous deployment using Azure Pipelines - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-secure-continuous-deployment/)
 	- [AZ-400: Implement continuous feedback - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-continuous-feedback/)
-- [ ] 09/aug/2024
+- [ ] step 5
 	- [AZ-400: Design and implement a dependency management strategy - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-dependency-management-strategy/)
 	-  [AZ-400: Manage infrastructure as code using Azure and DSC - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/)
 	- [AZ-400: Implement security and validate code bases for compliance - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
-- [ ] 16/aug/2024 - Check for Knowledge Gaps
-- [ ] 23/aug/2024
-- [ ] 30/aug/2024
-
+- [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
-### 09/jul/2024
+### 23/jul/2024
+- [ ] Follow lab for creating agent pools
+### 22/jul/2024
+- [x] All knowledge check questions for pipelines on learn
+- [x] Create lab environment for Azure Pipelines
+	- [AZ400-DesigningandImplementingMicrosoftDevOpsSolutions (microsoftlearning.github.io)](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L03_Configure_Agent_Pools_and_Understand_Pipeline_Styles.html)
+	- [AZ400-DesigningandImplementingMicrosoftDevOpsSolutions (microsoftlearning.github.io)](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L04_Enable_Continuous_Integration_with_Azure_Pipelines.html)
 ### 08/jul/2024
 - [x] Extract study subjects from measured skills
 - [x] Prioritize study subjects
