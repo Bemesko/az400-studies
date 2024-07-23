@@ -27,7 +27,16 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
 ### 23/jul/2024
-- [ ] Follow lab for creating agent pools
+- [x] Follow lab for creating agent pools
+	- [x] create organization agent pool
+	- [x] register agent on my machine
+	- [x] edit my pipeline to demand my agent
+	- [x] run pipeline on my machine
+- [ ] Follow lab for PR and CI pipelines
+- [ ] Lab idea: Setup dockerfile for devops agent and run it in a cluster
+- [ ] Lab idea: set up code coverage for agent pool lab
+- [ ] Lab idea: create lab environment in terraform to provision the azure devops organization
+- [ ] Lab idea: setup azure devops vmss agents using terraform (to provision) and ansible (to setup the agents)
 ### 22/jul/2024
 - [x] All knowledge check questions for pipelines on learn
 - [x] Create lab environment for Azure Pipelines
