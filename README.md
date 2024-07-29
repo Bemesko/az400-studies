@@ -26,17 +26,26 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 	- [AZ-400: Implement security and validate code bases for compliance - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
+### 30/jul/2024
+- [ ] Lab idea: set up code coverage for agent pool lab
+- [ ] Lab idea: setup cache in pipelines
+- [ ] Lab idea: create lab environment in terraform to provision the azure devops organization
+- [ ] Lab idea: setup azure devops vmss agents using terraform (to provision) and ansible (to setup the agents)
+- [ ] Lab idea: Setup dockerfile for devops agent and run it in a cluster
+### 29/jul/2024
+- [x] Follow lab for PR and CI pipelines
+	- [x] build validation on PR using eshoponweb-ci-pr
+	- [x] add policies to main branch
+	- [x] create PR following workflow
+	- [x] create CI pipeline with eshoponweb-ci
+	- [x] modify pipeline to enable continuous integration
+	- [x] run CI pipeline
 ### 23/jul/2024
 - [x] Follow lab for creating agent pools
 	- [x] create organization agent pool
 	- [x] register agent on my machine
 	- [x] edit my pipeline to demand my agent
 	- [x] run pipeline on my machine
-- [ ] Follow lab for PR and CI pipelines
-- [ ] Lab idea: Setup dockerfile for devops agent and run it in a cluster
-- [ ] Lab idea: set up code coverage for agent pool lab
-- [ ] Lab idea: create lab environment in terraform to provision the azure devops organization
-- [ ] Lab idea: setup azure devops vmss agents using terraform (to provision) and ansible (to setup the agents)
 ### 22/jul/2024
 - [x] All knowledge check questions for pipelines on learn
 - [x] Create lab environment for Azure Pipelines
