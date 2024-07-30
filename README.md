@@ -27,11 +27,12 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
 ### 30/jul/2024
-- [ ] Lab idea: set up code coverage for agent pool lab
 - [ ] Lab idea: setup cache in pipelines
+- [ ] Lab idea: set up code coverage for agent pool lab
 - [ ] Lab idea: create lab environment in terraform to provision the azure devops organization
 - [ ] Lab idea: setup azure devops vmss agents using terraform (to provision) and ansible (to setup the agents)
 - [ ] Lab idea: Setup dockerfile for devops agent and run it in a cluster
+- [ ] Lab idea: create pipeline to build a docker image for the sample project using cache
 ### 29/jul/2024
 - [x] Follow lab for PR and CI pipelines
 	- [x] build validation on PR using eshoponweb-ci-pr
