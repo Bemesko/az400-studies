@@ -1,0 +1,2 @@
+- Minor versions are automatically upgraded for [[Service Agents]]
+- Major versions or [Interactive Agents](Interactive%20Agents) need to be updated manually

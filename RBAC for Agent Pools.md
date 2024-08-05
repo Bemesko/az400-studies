@@ -1,0 +1,9 @@
+- Org level
+	- Reader can view and monitor health
+	- Service Account can create agent pools in projects, usually doesn't need to be assigned
+	- Administrator Can manage organization agent pools, register them in projects and add memberships
+		- Is assigned automatically to whoever created the agent pool
+- Project level
+	- Reader can monitor
+	- User can use the agent pool when setting up pipelines
+	- Administrator can assign access to the pool

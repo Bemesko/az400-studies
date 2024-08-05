@@ -1,0 +1,4 @@
+- Pipelines are versioned along with the code and can be validated through code reviews
+- Every branch can modify the run policy
+- Breaking changes in the pipeline are easily rolled back
+- Templating and reusing YAML code

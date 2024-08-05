@@ -6,7 +6,7 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 
 **Current state of the vault**
 
-![](media/Pasted%20image%2020240704083328.png)
+![](media/Pasted%20image%2020240805093846.png)
 
 ## Milestones
 - [x] 08/jul/2024 - Finish setting up everything
@@ -26,13 +26,13 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 	- [AZ-400: Implement security and validate code bases for compliance - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
+### 05/aug/2024
+- Took a bunch of notes on the learning path for [Implement CI with Azure Pipelines and GitHub Actions](Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions.md)
+- Want to move on to study [[GitHub Actions]] already
+### 02/aug/2024
+- Tried setting up cache in pipelines again but it's hard when using self hosted agent (would probably have to force a specific path to store the `dotnet restore` cache and didn't want to keep doing it anyway)
 ### 30/jul/2024
-- [ ] Lab idea: setup cache in pipelines
-- [ ] Lab idea: set up code coverage for agent pool lab
-- [ ] Lab idea: create lab environment in terraform to provision the azure devops organization
-- [ ] Lab idea: setup azure devops vmss agents using terraform (to provision) and ansible (to setup the agents)
-- [ ] Lab idea: Setup dockerfile for devops agent and run it in a cluster
-- [ ] Lab idea: create pipeline to build a docker image for the sample project using cache
+- Tried setting up cache in pipelines but didn't work
 ### 29/jul/2024
 - [x] Follow lab for PR and CI pipelines
 	- [x] build validation on PR using eshoponweb-ci-pr

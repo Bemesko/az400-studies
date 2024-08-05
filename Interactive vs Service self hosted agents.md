@@ -1,0 +1,2 @@
+- Most [Self Hosted Agent Pools](Self%20Hosted%20Agent%20Pools) will use service agents, they run as a [[Daemon]] in the server
+- [[Interactive Agents]] can be used to run tasks that involve window management such as UI Tests with [[Selenium]]
