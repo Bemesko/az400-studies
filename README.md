@@ -26,6 +26,8 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 	- [AZ-400: Implement security and validate code bases for compliance - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
+### 06/aug/2024
+- Went on a rabbit hole about [Container Jobs](Container%20Jobs.md) and [Testing in Pipelines](Testing%20in%20Pipelines.md)
 ### 05/aug/2024
 - Took a bunch of notes on the learning path for [Implement CI with Azure Pipelines and GitHub Actions](Implement%20CI%20with%20Azure%20Pipelines%20and%20GitHub%20Actions.md)
 - Want to move on to study [[GitHub Actions]] already

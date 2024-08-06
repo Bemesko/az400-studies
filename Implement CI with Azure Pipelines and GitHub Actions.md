@@ -6,7 +6,7 @@
 
 - 4 types of jobs
 	- agent pool jobs
-	- container jobs
+	- [container jobs](Container%20Jobs.md)
 	- deployment group jobs
 	- agentless (server) jobs
 - roles for agent pools
@@ -29,3 +29,11 @@ Read more on capabilities
 [[Uses for Parallel Jobs]]
 [[Anonymous access to public projects in Azure DevOps]]
 [[YAML Pipelines]]
+[[Agent Capabilities]]
+[[Types of Jobs regarding the agents]]
+[[Container Jobs]]
+[[Contribution Model]]
+[[Service Containers]]
+[[Azure Pipelines with GitHub Repositories]]
+[[Testing in Pipelines]]
+[[Supported source control types in Azure Pipelines]]

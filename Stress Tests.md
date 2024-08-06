@@ -1,0 +1,1 @@
+Test the capacity of the system to handle excessive load. Different from [Load Tests](Load%20Tests) because they put a huge amount of load in the system to see if it breaks instead of confirming scalability

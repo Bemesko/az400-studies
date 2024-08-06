@@ -1,0 +1,1 @@
+Used to validate interactions between the system under test and other distributed components.

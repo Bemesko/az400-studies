@@ -1,0 +1,5 @@
+- Some tests don't require the application to be running ([Unit Tests](Unit%20Tests), [[Static Analysis]]) while others do ([Performance Tests](Performance%20Tests), [Smoke Testing](Smoke%20Testing))
+- How can we decide when to run each type of test?
+	- Quick automated tests should run in [Continuous Integration](Continuous%20Integration) before the actual [Builds](Builds) to fail fast
+	- Longer automated tests (such as [Static Analysis](Static%20Analysis)) could run parallel to CI to reduce total build time
+	- Tests that require the application to be running could leverage [Container Jobs](Container%20Jobs.md) or run periodically in a release environment

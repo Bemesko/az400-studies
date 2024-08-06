@@ -1,0 +1,7 @@
+- Ensure enough of the code is tested to be sure it will actually work
+- Various tools that generate coverage reports and are compatible with both [Azure DevOps](Azure%20DevOps) and [GitHub](GitHub)
+	- [[Coverlet]]
+	- [[OpenCover]]
+	- [[Cobertura]]
+	- [[Coveralls]]
+	- [[Codecov]]

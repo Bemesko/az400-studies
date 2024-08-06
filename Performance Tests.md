@@ -1,0 +1,1 @@
+Umbrella term for both [Load Tests](Load%20Tests) and [Stress Tests](Stress%20Tests.md)
