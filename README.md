@@ -2,12 +2,11 @@ This is the Obsidian vault I'm using to study for the [AZ-400](AZ-400.md) exam. 
 
 I have decided to not use most of the Microsoft Learn paths to study (only if absolutely necessary) because they take way too much time to study completely and even if you study all of them there will still be a big gap in what you know vs. what the exam expects you to know. For this exam I'll be using a mixture of external sources and practice exam questions
 
-- Days until exam: 60?
+- Days until exam: `undefined`
 
 **Current state of the vault**
 
-![](media/Pasted%20image%2020240805093846.png)
-
+![](media/Pasted%20image%2020240816092736.png)
 ## Milestones
 - [x] 08/jul/2024 - Finish setting up everything
 - [ ] step 1 - CI, Azure Pipelines and GitHub Actions
@@ -26,6 +25,10 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 	- [AZ-400: Implement security and validate code bases for compliance - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
+## 17/aug/2024
+- Do labs for [GitHub Actions](GitHub%20Actions)
+### 16/aug/2024
+- Finished learning path for [Azure Pipelines](Azure%20Pipelines)
 ### 06/aug/2024
 - Went on a rabbit hole about [Container Jobs](Container%20Jobs.md) and [Testing in Pipelines](Testing%20in%20Pipelines.md)
 ### 05/aug/2024

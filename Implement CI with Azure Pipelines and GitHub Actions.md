@@ -37,3 +37,4 @@ Read more on capabilities
 [[Azure Pipelines with GitHub Repositories]]
 [[Testing in Pipelines]]
 [[Supported source control types in Azure Pipelines]]
+[[Azure Pipelines Triggers]]
