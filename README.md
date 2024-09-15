@@ -25,8 +25,11 @@ I have decided to not use most of the Microsoft Learn paths to study (only if ab
 	- [AZ-400: Implement security and validate code bases for compliance - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
 - [ ] step 6 - Check for Knowledge Gaps
 ## Daily Log
-## 17/aug/2024
-- Do labs for [GitHub Actions](GitHub%20Actions)
+## 11/sep/2024
+- Follow lab for github actions -> [AZ400-=-DesigningandImplementingMicrosoftDevOpsSolutions (microsoftlearning.github.io)](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L05_Implement_GitHub_Actions_for_CI_CD.html#objectives)
+	- import eshop on web https://github.com/MicrosoftLearning/eShopOnWeb
+	- make the action work -> .github/workflows/eshoponweb-cicd.yml
+	- 
 ### 16/aug/2024
 - Finished learning path for [Azure Pipelines](Azure%20Pipelines)
 ### 06/aug/2024
